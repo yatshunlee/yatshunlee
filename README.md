@@ -5,11 +5,11 @@ I am going to graduate in June 2023 as a data science master student. I am also 
 - ⚡ Fun fact: I like eating sushi: rice with soy sauce and wasabi >>> sashimi
 
 ### Quant Project(s):
-- [predicting stock market return](https://yatshunlee.super.site/personal-projects/projects/predicting-stock-market-return)
-- [conditional value at risk (CAViaR)](https://github.com/yatshunlee/CAViaR-Project)
+- [Predicting Stock Market Return](https://yatshunlee.super.site/personal-projects/projects/predicting-stock-market-return)
+- [Conditional Value at Risk (CAViaR)](https://github.com/yatshunlee/CAViaR-Project)
 
 ### Computer Vision Project(s):
-- [pencil sharpness detection](https://yatshunlee.super.site/personal-projects/projects/find-the-sharpness-of-a-pencil)
+- [Pencil Sharpness Detection](https://yatshunlee.super.site/personal-projects/projects/find-the-sharpness-of-a-pencil)
 
 ### Reinforcement Learning Project(s):
 - [Pacman AI](https://yatshunlee.super.site/personal-projects/projects/building-a-gaming-ai-by-imitation-learning-and-ddqn-with-per-pacman)

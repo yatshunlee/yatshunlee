@@ -3,6 +3,7 @@ I am a data science master graduate and an AI researcher in the department ASRC 
 - 📕 Interested in data science, quant and reinforcement learning
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yatshunlee/)
 - ⚡ Fun fact: I like eating sushi: rice with soy sauce and wasabi >>> sashimi
+- 📄 [Resume](./resume.pdf)
 
 ### Quant Project(s):
 - [Predicting Stock Market Return](https://yatshunlee.super.site/personal-projects/projects/predicting-stock-market-return)

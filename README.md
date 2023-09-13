@@ -2,8 +2,7 @@
 I am a data science master graduate and an AI researcher in the department ASRC of the Hong Kong Polytechnic University. I am currently open for work and will go to Toronto in July :D
 - 📕 Interested in data science, quant and reinforcement learning
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yatshunlee/)
-- ⚡ Fun fact: I like eating sushi: rice with soy sauce and wasabi >>> sashimi
-- 📄 [Resume](./resume.pdf)
+- ⚡ Fun fact: I like math
 
 ### Quant Project(s):
 - [Predicting Stock Market Return](https://yatshunlee.super.site/personal-projects/projects/predicting-stock-market-return)

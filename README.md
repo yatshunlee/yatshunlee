@@ -1,5 +1,5 @@
 ### Hi I am Jasper 👋
-I am a data science master graduate and an AI researcher in the department ASRC of the Hong Kong Polytechnic University. I am currently open for work and will go to Toronto in July :D
+I am a data science master's graduate currently living in Toronto :D
 - 📕 Interested in data science, quant and reinforcement learning
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yatshunlee/)
 - ⚡ Fun fact: I like math

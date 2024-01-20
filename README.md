@@ -6,7 +6,7 @@ I am a data science master's graduate currently living in Toronto :D
 
 ### Quant Project(s):
 - [Predicting Stock Market Return](https://yatshunlee.super.site/personal-projects/projects/predicting-stock-market-return)
-- [Conditional Value at Risk (CAViaR)](https://github.com/yatshunlee/CAViaR-Project)
+- [Conditional Autoregressive Value at Risk (CAViaR)](https://github.com/yatshunlee/CAViaR-Project)
 
 ### Computer Vision Project(s):
 - [Pencil Sharpness Detection](https://yatshunlee.super.site/personal-projects/projects/find-the-sharpness-of-a-pencil)

@@ -5,20 +5,20 @@ I am a data science master's graduate currently living in Toronto :D
 - ⚡ Fun fact: I like math
 
 ### Quant Project(s):
-- [Predicting Stock Market Return](https://yatshunlee.super.site/personal-projects/projects/predicting-stock-market-return)
+- [Predicting Stock Market Return](https://yatshunlee.super.site/projects/predicting-stock-market-return)
 - [Conditional Autoregressive Value at Risk (CAViaR)](https://github.com/yatshunlee/CAViaR-Project)
 
 ### Computer Vision Project(s):
-- [Pencil Sharpness Detection](https://yatshunlee.super.site/personal-projects/projects/find-the-sharpness-of-a-pencil)
+- [Pencil Sharpness Detection](https://yatshunlee.super.site/projects/find-the-sharpness-of-a-pencil)
 
 ### Reinforcement Learning Project(s):
-- [Pacman AI](https://yatshunlee.super.site/personal-projects/projects/building-a-gaming-ai-by-imitation-learning-and-ddqn-with-per-pacman)
-- [QWOP AI](https://yatshunlee.super.site/personal-projects/projects/building-a-gaming-ai-by-deep-q-learning-qwop)
-- [Minimizing Imbalance Force](https://yatshunlee.super.site/personal-projects/projects/minimizing-imbalance-force)
+- [Pacman AI](https://yatshunlee.super.site/projects/building-a-gaming-ai-by-imitation-learning-and-ddqn-with-per-pacman)
+- [QWOP AI](https://yatshunlee.super.site/projects/building-a-gaming-ai-by-deep-q-learning-qwop)
+- [Minimizing Imbalance Force](https://yatshunlee.super.site/projects/minimizing-imbalance-force)
 
 ### Machine Learning Project(s):
 - [Movie Recommendation System](https://www.youtube.com/watch?v=qJIU_dSHxOY)
-- [Car Park Availability Analysis and Predictive Modelling](https://yatshunlee.super.site/personal-projects/projects/car-park-availability-analysis-and-predictive-modelling)
+- [Car Park Availability Analysis and Predictive Modelling](https://yatshunlee.super.site/projects/car-park-availability-analysis-and-predictive-modelling)
 
 ### Open Source Contribution(s):
 - Author of ['Q-Learning' part in ML-Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/reinforcement_learning.html)

@@ -8,6 +8,9 @@ I am a data science master's graduate currently living in Toronto :D
 - [Predicting Stock Market Return](https://yatshunlee.super.site/projects/predicting-stock-market-return)
 - [CAViaR, Conditional Autoregressive Value at Risk (Quantitative Risk Modelling)](https://github.com/yatshunlee/CAViaR-Project)
 
+### NLP / LLM Project(s):
+- [NLP for Fact Checking with LLMs](https://github.com/yatshunlee/claim-fact-checking)
+
 ### Computer Vision Project(s):
 - [Using YOLOv5 Object Detection Model for Industrial Application](https://yatshunlee.super.site/projects/using-an-object-detection-model-yolov5-in-maintenance)
 - [Pencil Sharpness Detection by Image Segmentation](https://yatshunlee.super.site/projects/find-the-sharpness-of-a-pencil)

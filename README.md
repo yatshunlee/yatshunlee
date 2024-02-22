@@ -18,7 +18,6 @@ I am a data science master's graduate currently living in Toronto :D
 ### Reinforcement Learning Project(s):
 - [Pacman AI](https://yatshunlee.super.site/projects/building-a-gaming-ai-by-imitation-learning-and-ddqn-with-per-pacman)
 - [QWOP AI](https://yatshunlee.super.site/projects/building-a-gaming-ai-by-deep-q-learning-qwop)
-- [Minimizing Imbalance Force by Reinforcement Learning](https://yatshunlee.super.site/projects/minimizing-imbalance-force)
 
 ### Machine Learning Project(s):
 - [Movie Recommendation System](https://www.youtube.com/watch?v=qJIU_dSHxOY)

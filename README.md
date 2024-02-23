@@ -1,5 +1,8 @@
 ### Hi I am Jasper 👋
-I am a data science master's graduate currently living in Toronto :D
+I am a ...
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist;ML%2FAI+Engineer;Data+Analyst;Software+Developer)](https://git.io/typing-svg)
+
 - 📕 Interested in data science, quant and reinforcement learning
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yatshunlee/)
 - ⚡ Fun fact: I like math

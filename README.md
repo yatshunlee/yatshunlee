@@ -23,7 +23,7 @@ I am a ...
 - [QWOP AI](https://yatshunlee.super.site/projects/building-a-gaming-ai-by-deep-q-learning-qwop)
 
 ### Machine Learning Project(s):
-- [Movie Recommendation System](https://www.youtube.com/watch?v=qJIU_dSHxOY)
+- [Movie Recommendation System](https://yatshunlee.super.site/projects/movie-library-website-with-recommendation-engine)
 - [Car Park Availability Analysis and Predictive Modelling](https://yatshunlee.super.site/projects/car-park-availability-analysis-and-predictive-modelling)
 - [Loan Default Prediction](https://yatshunlee.super.site/projects/lendingclub-loan-analysis)
 

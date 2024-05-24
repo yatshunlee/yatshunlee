@@ -25,7 +25,7 @@ I am a ...
 ### Machine Learning Project(s):
 - [Movie Recommendation System](https://yatshunlee.super.site/projects/movie-library-website-with-recommendation-engine)
 - [Car Park Availability Analysis and Predictive Modelling](https://yatshunlee.super.site/projects/car-park-availability-analysis-and-predictive-modelling)
-- [Loan Default Prediction](https://yatshunlee.super.site/projects/lendingclub-loan-analysis)
+- [Loan Default Prediction](https://github.com/yatshunlee/lending-club-credit-risk-analysis)
 
 ### Business Intelligence Project(s):
 - [LendingClub Loan Analysis Dashboard (Power BI)](https://yatshunlee.super.site/projects/lendingclub-loan-analysis)

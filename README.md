@@ -28,7 +28,8 @@ I am a ...
 - [Loan Default Prediction](https://yatshunlee.super.site/projects/lendingclub-loan-analysis)
 
 ### Business Intelligence Project(s):
-- [LendingClub Loan Analysis Dashboard](https://yatshunlee.super.site/projects/lendingclub-loan-analysis)
+- [LendingClub Loan Analysis Dashboard (Power BI)](https://yatshunlee.super.site/projects/lendingclub-loan-analysis)
+- [CRM Analytics Dashboard (Tableau)](https://yatshunlee.super.site/projects/crm-analytics-dashboard)
 
 ### Open Source Contribution(s):
 - Author of ['Q-Learning' part in ML-Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/reinforcement_learning.html)
